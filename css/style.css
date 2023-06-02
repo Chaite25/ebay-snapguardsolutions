@@ -751,7 +751,7 @@ figure.slider figure figcaption {
     color: #000;
 
     font-family: 'Open Sans', sans-serif;
-    margin-bottom: 15px;
+    margin: 20px 0;
     overflow: hidden;
 }
 
